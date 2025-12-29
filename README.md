@@ -13,7 +13,7 @@
 <td>
 
 ### Neural Simulation
-<video src="xpp_neural.mkv" controls width="400">
+<video src="demo_x22.mpv" controls width="400">
 Your browser does not support the video tag.
 </video>
 
